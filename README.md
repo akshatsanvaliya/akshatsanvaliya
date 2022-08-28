@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akshat Sanvaliya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://camo.githubusercontent.com/8518504a205f83c6d26f677ce0dd8230e6fdbd19a8b9d113bd6589687bd55d7d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f35333837646337653033356233656665396439343531363034346465363661342e676966" style="width:50%;align-self:end"></img>
 <p align="left">  </p>
 
