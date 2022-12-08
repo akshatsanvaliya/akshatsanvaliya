@@ -3,11 +3,11 @@
 <p align="left">  </p>
 
 
-- 🔭 I’m currently working on **Face Detection (God's Eye)**
+- 🔭 I've recently worked on **Face Detection (God's Eye)** (my college major)
 
-- 🌱 I’m currently learning ** Tensorflow, OpenCV ** and have a great knowledge of ** Java, Python, C/C++ **
+- 🌱 I’m currently learning **Tensorflow, OpenCV** and have a great knowledge of **Java, Python, C/C++**
 
-- 💬 Ask me about ** Technology **
+- 💬 Ask me about **Technology**
 
 - 📫 How to reach me **asanvaliya@gmail.com**
 
