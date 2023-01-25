@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **asanvaliya@gmail.com**
 
+- **Able to sit in my chair for extended periods of time without numbness or fatigue.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akshat-s-1588a9112/" target="blank"><img align="center" src="https://findicons.com/files/icons/1979/social/50/linkedin.png" height="30" width="40" /></a>
