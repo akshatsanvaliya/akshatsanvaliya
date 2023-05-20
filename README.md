@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV** and have a great knowledge of **Java, Python**
 
-- Intrest in Cyber Security.
+- Intrest in **Cyber Security**.
 
-- Hands-on on Kali Linux.
+- Hands-on on **Kali Linux**.
 
 - 💬 Ask me about **Technology**
 
