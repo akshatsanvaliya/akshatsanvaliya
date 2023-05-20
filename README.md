@@ -5,7 +5,11 @@
 
 - 🔭 I've recently worked on **Face Detection (God's Eye)** (my college major)
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV** and have a great knowledge of **Java, Python, C/C++**
+- 🌱 I’m currently learning **Tensorflow, OpenCV** and have a great knowledge of **Java, Python**
+
+- Intrest in Cyber Security.
+
+- Hands-on on Kali Linux.
 
 - 💬 Ask me about **Technology**
 
