@@ -9,7 +9,7 @@
 
 - Intrest in **Cyber Security**.
 
-- Hands-on on **Kali Linux**.
+- Hands-on with **Kali Linux**.
 
 - 💬 Ask me about **Technology**
 
